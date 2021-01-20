@@ -1,6 +1,6 @@
 {
   "version_code":1,
-  "block_online":false,
+  "block_online":true,
   "hide_download":true,
   "require_update": false,
   "hideRate": false,
