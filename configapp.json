@@ -1,5 +1,6 @@
 {
   "version_code":1,
+  "block_online":true,
   "require_update": false,
   "hideRate": false,
   "showAds": false,
