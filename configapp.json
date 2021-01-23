@@ -1,10 +1,10 @@
 {
   "version_code":1,
-  "block_online":true,
-  "hide_download":true,
+  "block_online":false,
+  "hide_download":false,
   "require_update": false,
   "hideRate": false,
-  "showAds": false,
+  "showAds": true,
   "data_type": 0,
   "listpub": [
     "AI PAPPI",
